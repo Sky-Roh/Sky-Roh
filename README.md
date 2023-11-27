@@ -17,7 +17,8 @@
 - 👀 I’m interested in hiking, climbing and learning something totally new.
 - 🌱 I’m currently learning React.js PostgreSQL
 - 📫 Reach me on haneul.sky.roh@gmail.com
-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Canada.
+- 💻 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Canada.
+- ⛄️ Currently working on Azure Certification ➕ AWS
 
 ## Main Project
 ##### ClimbStation Demo
